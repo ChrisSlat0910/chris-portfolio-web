@@ -1,7 +1,7 @@
 import { FaDownload } from "react-icons/fa"
 import Info from "../../components/Info";
 import Stats from "../../components/Stats"
-import CV from "../../assets/steve-Cv.pdf";
+import CV from "../../assets/Chris_CV.pdf";
 import "./about.css"
 import Skills from "../../components/Skills";
 import { resume } from "../../data";
@@ -23,7 +23,7 @@ const About = () => {
                             <Info/>
                         </ul>
 
-                        <a href="" download='' className="button">
+                        <a href={CV} download='' className="button">
                             Download CV
                             <span className="button__icon">
                                 <FaDownload />
