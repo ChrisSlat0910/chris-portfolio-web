@@ -9,12 +9,12 @@ import {
 } from 'react-icons/fa';
 import { FiFileText, FiUser, FiExternalLink } from 'react-icons/fi';
 
-import Work1 from './assets/project-1.jpeg';
-import Work2 from './assets/project-2.jpg';
-import Work3 from './assets/project-3.jpeg';
-import Work4 from './assets/project-4.jpeg';
-import Work5 from './assets/project-5.jpg';
-import Work6 from './assets/project-6.jpg';
+const Work1 = "https://cdn.jsdelivr.net/gh/ChrisSlat0910/chris-portfolio-web@main/src/assets/project-1.jpeg";
+const Work2 = "https://cdn.jsdelivr.net/gh/ChrisSlat0910/chris-portfolio-web@main/src/assets/project-2.jpg";
+const Work3 = "https://cdn.jsdelivr.net/gh/ChrisSlat0910/chris-portfolio-web@main/src/assets/project-3.jpeg";
+const Work4 = "https://cdn.jsdelivr.net/gh/ChrisSlat0910/chris-portfolio-web@main/src/assets/project-4.jpeg";
+const Work5 = "https://cdn.jsdelivr.net/gh/ChrisSlat0910/chris-portfolio-web@main/src/assets/project-5.jpg";
+const Work6 = "https://cdn.jsdelivr.net/gh/ChrisSlat0910/chris-portfolio-web@main/src/assets/project-6.jpg";
 
 import Theme1 from './assets/purple.png';
 import Theme2 from './assets/red.png';
