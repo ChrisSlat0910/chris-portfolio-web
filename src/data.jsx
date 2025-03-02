@@ -9,7 +9,7 @@ import {
 } from 'react-icons/fa';
 import { FiFileText, FiUser, FiExternalLink } from 'react-icons/fi';
 
-const Work1 = "https://cdn.jsdelivr.net/gh/ChrisSlat0910/chris-portfolio-web@main/src/assets/project-1.jpeg";
+const Work1 = 
 const Work2 = "https://cdn.jsdelivr.net/gh/ChrisSlat0910/chris-portfolio-web@main/src/assets/project-2.jpg";
 const Work3 = "https://cdn.jsdelivr.net/gh/ChrisSlat0910/chris-portfolio-web@main/src/assets/project-3.jpeg";
 const Work4 = "https://cdn.jsdelivr.net/gh/ChrisSlat0910/chris-portfolio-web@main/src/assets/project-4.jpeg";
